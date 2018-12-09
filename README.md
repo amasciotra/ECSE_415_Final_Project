@@ -15,12 +15,8 @@ Thomas Philippon
 Babatunde Onadipe
 
 ### Resources:  
-https://github.com/TusharChugh/Vehicle-Detection-HOG (Seems to be same problem as us)  
 https://towardsdatascience.com/detecting-vehicles-using-machine-learning-and-computer-vision-e319ee149e10  (great article)  
 https://github.com/bdjukic/CarND-Vehicle-Detection  (the author of the previous article's github)  
-https://github.com/maxence517/ECSE-415_FinalProject (Github of someone in our class)  
-https://github.com/WDDnguyen/ECSE415_Project (Github of someone else in our class - kNNneighbor)
-
 #
 
 ## Localization and Classification (Image Detection Machine Learning Algorithm)
